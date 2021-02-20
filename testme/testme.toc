@@ -1,0 +1,13 @@
+## Interface: 90002
+## Title: Test
+## Version: r1
+## Author: Bearesquishy
+## DefaultState: enabled
+# Dependancies: AdiBags
+# SavedVariables: foo, bar
+# SavedVariablesPerCharacter: somePercharVariable
+
+## Notes: Just a simple addon for testing and education
+testme.xml
+database.lua
+core.lua
